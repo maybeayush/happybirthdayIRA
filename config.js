@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "AARUSHI",
+  name: "Ira",
   photo: "./img/Snapchat-1185068668.jpg",       // Place your photo in the img/ folder
   music: "./music/audio.mp3",      // Place your music in the music/ folder
 
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "HELLO",
-      subtitle: " AARUSHI 😝!",
+      subtitle: " IRA😝!",
     },
     {
       type: "countdown",
@@ -99,7 +99,7 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday TO The Mastikhor ladki!",
+      wishTitle: "Happy Birthday TO You My Beautiful Girl!",
       wishText: "May you get everything you want! ;)",
     },
     {
